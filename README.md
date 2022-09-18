@@ -1,4 +1,4 @@
-# Anonymous Airplane Reservation System 
+# Anonymous Airline Reservation System 
 
 Welcome to our airplane reservation system.
 
